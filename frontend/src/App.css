@@ -1,0 +1,28 @@
+.uni-padding{
+  padding: 0.7% 8% !important; 
+}
+
+.home-container{
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link{
+  font-size: 18px !important;
+}
+
+.navbar-brand{
+  font-size: 22px !important;
+}
+
+.redirect-login h6{
+  color: black !important;
+}
+
+.blog-des{
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
